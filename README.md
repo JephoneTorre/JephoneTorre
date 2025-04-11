@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jephone Israel Jireh Torre
 
-<!--
-**JephoneTorre/JephoneTorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year BSCS Student** at **West Visayas State University**
 
-Here are some ideas to get you started:
+I am a passionate **Computer Science** student who loves exploring both front-end and back-end development. I enjoy working with:
+- **Python** 🐍
+- **Flutter** 🦋
+- **HTML** 🌐, **JS** ⚡, and **CSS** 🎨
+- Front-end development with **Figma** 🎨, **Wix** 🌟, and **FlutterFlow** 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently focused on learning and improving my skills in **AI** and **app development**.  
+🌱 I’m always eager to learn new technologies and collaborate on projects!  
+💬 Ask me about coding, app development, or tech in general!  
+📫 How to reach me: jephoneisraeljireh.torre@wvsu.edu.ph
+
+Feel free to check out my repositories and let's connect Godbless! 😊
