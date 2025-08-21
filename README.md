@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jephone Israel Jireh Torre
 
-🎓 **3rd Year BSCS Student** at **West Visayas State University**
+🎓 **4th Year BSCS Student** at **West Visayas State University**
 
 I am a passionate **Computer Science** student who loves exploring both front-end and back-end development. I enjoy working with:
 - **Python** 🐍
