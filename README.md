@@ -6,7 +6,7 @@ I am a passionate **Computer Science** student who loves exploring both front-en
 - **Python** 🐍
 - **Flutter** 🦋
 - **HTML** 🌐, **JS** ⚡, and **CSS** 🎨
-- Front-end development with **Figma** 🎨, **Wix** 🌟, and **FlutterFlow** 💻
+- Front-end development with **Figma** 🎨, **NextJs** 🌟, and **FlutterFlow** 💻
 
 🔭 I’m currently focused on learning and improving my skills in **AI** and **app development**.  
 🌱 I’m always eager to learn new technologies and collaborate on projects!  
